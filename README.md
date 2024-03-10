@@ -33,10 +33,6 @@ Para personalizar este projeto para suas necessidades, siga estes passos:
 
 Contribuições são sempre bem-vindas! Se você tem alguma sugestão para melhorar este projeto, sinta-se à vontade para criar um pull request ou abrir uma issue.
 
-## Licença
-
-Este projeto é distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
-
 ## Contato
 
 Se você tiver qualquer dúvida ou quiser entrar em contato comigo, não hesite em me procurar nas redes sociais ou enviar um e-mail para ranieryfialho@gmail.com.
